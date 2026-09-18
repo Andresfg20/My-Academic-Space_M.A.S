@@ -77,6 +77,7 @@ La primera versión del proyecto incluirá únicamente los siguientes módulos:
 - **Actividades**
 - **Calificaciones**
 - **Calendario**
+
 Cualquier funcionalidad fuera de este listado queda explícitamente excluida de la primera entrega, sin importar su relevancia potencial para versiones futuras.
  
 ---
